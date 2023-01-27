@@ -1,4 +1,4 @@
-# evas-auth
+# AuthorizationModule
 
 Authorisation module
 
