@@ -1,0 +1,21 @@
+{
+    "name": "evas-php/evas-auth",
+    "description": "Autorization module",
+    "keywords": ["auth", "authentication", "authorization", "auth module", "authentication module", "evas-php", "php"],
+    "version": "1.0",
+    "type": "library",
+    "license": "CC-BY-4.0",
+    "authors": [
+        {
+            "name": "Egor Vasyakin",
+            "email": "egor@evas-php.com"
+        }
+    ],
+    "require": {
+        "evas-php/evas-base": "*",
+        "evas-php/evas-db": "*",
+        "evas-php/evas-http": "*",
+        "evas-php/evas-orm": "*",
+        "evas-php/evas-validate": "*"
+    }
+}
