@@ -1,6 +1,6 @@
 # AuthorizationModule
 
-Authorisation module
+Authorization module
 
 Login/registration with  email, phone
 
